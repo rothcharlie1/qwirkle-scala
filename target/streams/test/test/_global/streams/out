@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(common.PosnSpec, org.scalatest.tools.Framework$$anon$1@269d1dfe, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(player.StrategySpec, org.scalatest.tools.Framework$$anon$1@269d1dfe, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(common.GameStateSpec, org.scalatest.tools.Framework$$anon$1@269d1dfe, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(common.MapMapSpec, org.scalatest.tools.Framework$$anon$1@269d1dfe, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(common.TileSpec, org.scalatest.tools.Framework$$anon$1@269d1dfe, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPosnSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTileSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA red square Tile[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should match a red circle Tile[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should match a purple square Tile[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not match a green star Tile[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMapMapSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA map with a single center RED SQUARE tile[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should provide 4 locations to insert a RED CIRCLE tile[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should allow placement of a RED CIRCLE at (0,1)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should then allow placement of a GREEN CIRCLE at (-1, 1)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should then block insertion of an ORANGE SQUARE at (2, 2)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA map with a gap only for a GREEN STAR[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should allow insertion of a GREEN STAR at (1,0)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not suggest (0,1) as a place for a GREEN DIAMOND[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStrategySpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe DAG Strategy[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should try to place a Red Star at (0,2)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe LDASG Strategy[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should place a Red Star in a constrained horseshoe gap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32ma DAG Iterator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should place a red star and then a red eightstar[0m[0m

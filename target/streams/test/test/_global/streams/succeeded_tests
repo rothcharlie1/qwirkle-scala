@@ -1,0 +1,11 @@
+#Successful Tests
+#Wed Nov 08 16:25:16 EST 2023
+MapMapSpec=1696472350538
+PlaceSpec=1695862460100
+PosnSpec=1696472350517
+TileSpec=1696472350533
+common.GameStateSpec=1699478716787
+common.MapMapSpec=1699478715577
+common.PosnSpec=1699478715554
+common.TileSpec=1699478715577
+player.StrategySpec=1699478715586

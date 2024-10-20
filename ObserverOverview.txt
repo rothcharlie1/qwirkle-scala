@@ -1,0 +1,20 @@
+
+ +-------------------------------+                     +---------+
+ | trait Observer                | < - - - - - - - - - | Referee |
+ +-------------------------------+    (has a List of)  +---------+
+ | receiveState(GameState): Unit |
+ | gameOver(GameResult): Unit    |
+ +-------------------------------+
+                 |
+                 |
+                 v
+ +--------------------------------------+
+ | class QObserver extends Observer     |
+ +--------------------------------------+
+ | private states: ArrayBuffer[Image]   | 
+ | private currStateIdx: Option[Int]    |
+ | private currState: Option[GameState] |
+ +--------------------------------------+
+ | shiftState(Int): Option[GameState]   |
+ | saveState(String): Unit              |
+ +--------------------------------------+

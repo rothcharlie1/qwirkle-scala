@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/src/test/scala/common/GameStateTest.scala:57:15: '(' expected but 'true' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        while true {}[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

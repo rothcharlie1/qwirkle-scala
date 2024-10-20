@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/target/scala-2.13/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: /Users/charlesroth/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala2-sbt-bridge/2.13.12/scala2-sbt-bridge-2.13.12.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/target/scala-2.13/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/charlesroth/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.12/scala-library-2.13.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dummy_2f190314[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/src/main/scala/common/Place.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/src/main/scala/common/Shape.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/src/main/scala/common/QMap.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/src/main/scala/common/Tile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/charlesroth/Documents/cs4500/egoless-lions/Q/Other/q-game/src/main/scala/common/Color.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.2)[0m
+[0m[[0m[33mwarn[0m] [0m[0m8 deprecations (since 2.13.3)[0m
+[0m[[0m[33mwarn[0m] [0m[0m9 deprecations in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
